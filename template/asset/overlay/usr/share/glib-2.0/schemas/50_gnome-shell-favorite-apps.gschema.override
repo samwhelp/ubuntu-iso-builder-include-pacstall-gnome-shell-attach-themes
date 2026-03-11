@@ -62,7 +62,7 @@ exec='sakura'
 exec-arg=''
 
 
-[org.gnome.desktop.default-applications.terminal:Budgie]
+[org.gnome.desktop.default-applications.terminal]
 exec='sakura'
 exec-arg=''
 
