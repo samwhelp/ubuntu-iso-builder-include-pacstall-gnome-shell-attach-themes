@@ -15,6 +15,10 @@ gnome-shell
 ubuntu-session
 
 
+xwayland
+#xwayland-run
+
+
 gnome-settings-daemon
 
 
@@ -34,6 +38,7 @@ nautilus
 nemo
 
 
+ptyxis
 gnome-terminal
 #mate-terminal
 lxterminal
